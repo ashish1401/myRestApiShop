@@ -1,6 +1,6 @@
 # Shop - REST API
 
-An E-Commerce Restful API that can be integrated with a frontend to create an Oranised database of listed products as well as orders with certain routes being protected from the client.
+An E-Commerce Restful API that can be integrated with a frontend to create an Organized database of listed products as well as orders with certain routes being protected from the client.
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
